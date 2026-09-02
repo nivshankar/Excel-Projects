@@ -166,13 +166,13 @@ The `Sales Data` worksheet tracks transactions across regions, salespersons, pro
 ## 🖼️ Screenshots
 
 ### 1. Student Data Analysis Sheet
-![Student Data Worksheet](input_file_0.png)
+![Student Data Worksheet](Image1.png)
 
 ### 2. Employee Records & Dynamic Lookup Sheet
-![Employee Records Worksheet](input_file_1.png)
+![Employee Records Worksheet](Image2.png)
 
 ### 3. Sales Transactions & Discount Analysis Sheet
-![Sales Data Worksheet](input_file_2.png)
+![Sales Data Worksheet](Image3.png)
 
 ---
 
