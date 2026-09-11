@@ -95,7 +95,7 @@ Modern retail and enterprise sales organizations generate high volumes of transa
 
 The main executive dashboard consolidates key financial metrics into clean, top-level KPI summary cards alongside multi-perspective interactive charts.
 
-![Executive Dashboard](Screenshot%202026-09-11%20232620_2.png)
+![Executive Dashboard](Screenshots/Dashboard.png)
 
 ---
 
@@ -115,7 +115,7 @@ The main executive dashboard consolidates key financial metrics into clean, top-
 
 > Aggregates category performance by region to evaluate balance across revenue streams.
 
-![Regional Pivot Summary](Screenshot%202026-09-11%20232702_2.png)
+![Regional Pivot Summary](Screenshots/Regional Pivot Summary.png)
 
 **Pivot Breakdown:**
 
@@ -127,7 +127,7 @@ The main executive dashboard consolidates key financial metrics into clean, top-
 
 > Raw granular order records capturing Customer IDs, product choices, regional destinations, unit quantities, and discount structure.
 
-![Sales Transaction Log](Screenshot%202026-09-11%20232638_2.png)
+![Sales Transaction Log](Screenshots/Sales Transaction log.png)
 
 ---
 
@@ -135,7 +135,7 @@ The main executive dashboard consolidates key financial metrics into clean, top-
 
 > Highlights top revenue contributors to enable targeted customer retention strategies.
 
-![High-Value Customer Profile](Screenshot%202026-09-11%20232650_2.png)
+![High-Value Customer Profile](Screenshots/High Value Customer.png)
 
 **Key Customer Highlights:**
 - **Highest Value Customer:** James Wilson (`CUST030`) with **$20,774.74** total sales.
@@ -149,7 +149,7 @@ The main executive dashboard consolidates key financial metrics into clean, top-
 
 **What-If Sensitivity Table:**
 
-![What-If Analysis Table](Screenshot%202026-09-11%20232800_2.png)
+![What-If Analysis Table](Screenshots/What if Analysis.png)
 
 | Discount Scenario Rate | Expected Total Profit | Delta vs Current Profit |
 |------------------------|-----------------------|-------------------------|
@@ -161,7 +161,7 @@ The main executive dashboard consolidates key financial metrics into clean, top-
 
 **Regression Statistics Summary:**
 
-![Regression Analysis Output](Screenshot%202026-09-11%20232810.png)
+![Regression Analysis Output](Screenshots/Regression Analysis.png)
 
 - **Multiple R:** $0.7734$
 - **R Square:** $0.5982$
