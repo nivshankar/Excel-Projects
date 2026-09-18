@@ -105,7 +105,7 @@ Sales-DATA-Analytics-Dashboard/
 
 The main executive dashboard aggregates transactional metrics into polished KPI summary cards along with three distinct visual perspective charts: Category Monthly Breakdown, Product Sales Percentage Contribution, and Payment Method Usage Lines.
 
-![Sales DATA Analytics Dashboard](Dashboard.png)
+![Sales DATA Analytics Dashboard](Final_Project/Dashboard.png)
 
 ---
 
@@ -128,7 +128,7 @@ The main executive dashboard aggregates transactional metrics into polished KPI 
 
 > Raw granular order records incorporating Transaction IDs, Customer Details, Product IDs, Categories, Unit Prices, Payment Channels, Customer Tenure, and Computed Totals.
 
-![Master Transaction Log](Transaction.png)
+![Master Transaction Log](Final_Project/Transaction.png)
 
 **Dataset Characteristics:**
 - **Total Records:** 250 transactions across 50 unique customer accounts (`CUST001` - `CUST050`).
@@ -141,7 +141,7 @@ The main executive dashboard aggregates transactional metrics into polished KPI 
 
 > Multi-perspective pivot tables summarizing monthly category counts, product quantity metrics, payment method distributions, and revenue totals.
 
-![Pivot Tables Summary](Pivot_Tables.png)
+![Pivot Tables Summary](Final_Project/Pivot_Tables.png)
 
 **Pivot Insights Breakdown:**
 
@@ -158,7 +158,7 @@ The main executive dashboard aggregates transactional metrics into polished KPI 
 
 > Highlights top spending customer accounts and summarizes critical macro KPIs across categories, payment channels, and monthly peaks.
 
-![High-Value Customer & KPI Summary](High-Value_Customer.png)
+![High-Value Customer & KPI Summary](Final_Project/High-Value_Customer.png)
 
 **Key Analytics Summary:**
 - **👑 High-Value Customer:** **Mark Carter** (`CUST025`) with **$15,659.65** in total spend.
@@ -172,7 +172,7 @@ The main executive dashboard aggregates transactional metrics into polished KPI 
 
 > Linear regression output modeling statistical relationships across sales transaction observations ($N = 250$).
 
-![Regression Analysis Output](Regression.png)
+![Regression Analysis Output](Final_Project/Regression.png)
 
 **Regression Model Metrics:**
 - **Multiple R:** $0.45808$
